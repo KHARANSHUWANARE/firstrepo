@@ -1,2 +1,1 @@
-# firstrepo
-software development methodology
+# simpleweb
